@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+void dummy()
+{
+    //dummy changes for learning of github desktop
+}
+
 void comment()
 {
     //This is create to learn branching in git
