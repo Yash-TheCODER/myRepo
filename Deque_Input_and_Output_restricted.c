@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+void timepass()
+{
+   //just learning github using github desktop app 
+}
+
 void dummy()
 {
     //dummy changes for learning of github desktop
