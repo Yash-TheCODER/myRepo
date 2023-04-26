@@ -1,11 +1,16 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
-void newchange()
+void timepass()
 {
-    //added new change
+   //just learning github using github desktop app 
 }
+
+void dummy()
+{
+    //dummy changes for learning of github desktop
+}
+
 void comment()
 {
     //This is create to learn branching in git
